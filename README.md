@@ -1,6 +1,5 @@
 # sales-insights-dashboard
-Projekt przedstawia interaktywny dashboard do analizy sprzedaży w trzech oddziałach supermarketu za pierwszy kwartał 2019 roku. Celem jest wizualizacja kluczowych wskaźników, identyfikacja trendów oraz wsparcie w podejmowaniu decyzji biznesowych.
-https://github.com/alexarzamasova0-stack/sales-insights-dashboard/blob/af585d824f8b990c168ade42dd8cb7ada3ae65b2/image.png
+![Projekt przedstawia interaktywny dashboard do analizy sprzedaży w trzech oddziałach supermarketu za pierwszy kwartał 2019 roku. Celem jest wizualizacja kluczowych wskaźników, identyfikacja trendów oraz wsparcie w podejmowaniu decyzji biznesowych.](image.png)
 
 O danych:
 
