@@ -1,0 +1,1 @@
+Projekt przedstawia interaktywny dashboard do analizy sprzedaży w trzech oddziałach supermarketu za pierwszy kwartał 2019 roku. Celem jest wizualizacja kluczowych wskaźników, identyfikacja trendów oraz wsparcie w podejmowaniu decyzji biznesowych.
