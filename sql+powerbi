@@ -38,7 +38,8 @@ WITH (
     ENCODING 'UTF8'
 );
 
-
+Przygotowanie danych przed budową modelu i wizualizacją
+![](sql-preper-data.png)
 
 
 
