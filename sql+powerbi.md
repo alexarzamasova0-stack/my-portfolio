@@ -1,42 +1,13 @@
 Najpierw utworzyłam tabelę w bazie danych o odpowiedniej strukturze, 
 dopasowanej do danych z pliku CSV. Tabela zawiera wszystkie niezbędne kolumny z odpowiednimi typami danych.
 
-
-
-CREATE TABLE sales_data (
-    row_id INT PRIMARY KEY,
-    order_id VARCHAR(20),
-    order_date DATE,
-    ship_date DATE,
-    ship_mode VARCHAR(50),
-    customer_id VARCHAR(20),
-    customer_name VARCHAR(100),
-    segment VARCHAR(50),
-    country VARCHAR(50),
-    city VARCHAR(50),
-    state VARCHAR(50),
-    postal_code VARCHAR(20),
-    region VARCHAR(50),
-    product_id VARCHAR(20),
-    category VARCHAR(50),
-    sub_category VARCHAR(50),
-    product_name VARCHAR(255),
-    sales DECIMAL(12, 2),
-    quantity INT,
-    discount DECIMAL(4, 2),
-    profit DECIMAL(12, 2)
-);
-
 Po utworzeniu tabeli został wykonany import danych z pliku CSV
 
-COPY sales_data
-FROM 'C:/Users/alexa/Desktop/superstore.csv'
-WITH (
-    FORMAT csv,
-    DELIMITER ',',
-    HEADER,
-    ENCODING 'UTF8'
-);
+![](create+import.pgn)
+
+
+
+
 
 Przygotowanie danych przed budową modelu i wizualizacją
 
