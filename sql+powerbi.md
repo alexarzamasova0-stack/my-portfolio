@@ -3,7 +3,7 @@ dopasowanej do danych z pliku CSV. Tabela zawiera wszystkie niezbędne kolumny z
 
 Po utworzeniu tabeli został wykonany import danych z pliku CSV
 
-![](create+import.pgn)
+![Po utworzeniu tabeli został wykonany import danych z pliku CSV](create+import.pgn)
 
 
 
