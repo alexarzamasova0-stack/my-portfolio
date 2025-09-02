@@ -11,7 +11,7 @@ Po utworzeniu tabeli został wykonany import danych z pliku CSV
 
 Przygotowanie danych przed budową modelu i wizualizacją
 
-![Przygotowanie danych przed budową modelu i wizualizacją](sql-preper-data.png)
+![Przygotowanie danych przed budową modelu i wizualizacją](images/sql-preper-data.png)
 
 
 
