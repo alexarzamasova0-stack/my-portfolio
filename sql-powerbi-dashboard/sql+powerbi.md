@@ -3,7 +3,7 @@ dopasowanej do danych z pliku CSV. Tabela zawiera wszystkie niezbędne kolumny z
 
 Po utworzeniu tabeli został wykonany import danych z pliku CSV
 
-![Po utworzeniu tabeli został wykonany import danych z pliku CSV](sql-powerbi-dashboard/images/create+import.png)
+![Po utworzeniu tabeli został wykonany import danych z pliku CSV](images/create+import.png)
 
 
 
