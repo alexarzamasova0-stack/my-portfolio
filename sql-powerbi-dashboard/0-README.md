@@ -20,7 +20,7 @@ Dokument opisujący etapy przygotowania danych: tworzenie zapytań SQL do selekc
 
 02-powerquery-model-description.md
 
-Plik ze szczegółowym opisem modelu danych zbudowanego w Power Query. Omawia transformacje, czyszczenie danych, tworzenie kolumn obliczeniowych oraz miar, które przygotowano do wizualizacji.
+Plik z opisem modelu danych zbudowanego w Power Query. Omawia transformacje, czyszczenie danych, tworzenie kolumn obliczeniowych oraz miar, które przygotowano do wizualizacji.
 
 03-f-dhboard.md
 
