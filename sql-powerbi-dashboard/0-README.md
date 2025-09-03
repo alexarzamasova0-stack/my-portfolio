@@ -1,4 +1,4 @@
-![Opis danych i projektu](final-dashboard.png)
+![Opis danych i projektu](images/final-dashboard.png)
 
 
 Opis danych i projektu
