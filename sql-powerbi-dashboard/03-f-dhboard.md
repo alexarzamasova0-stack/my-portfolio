@@ -1,6 +1,6 @@
+
+
 ![dashboard](images/final-dashboard.png)
-
-
 
 Total Sales by Year and Region
 
