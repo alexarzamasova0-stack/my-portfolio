@@ -1,3 +1,6 @@
+![Opis danych i projektu](final-dashboard.png)
+
+
 Opis danych i projektu
 
 Dane pochodzą z zestawu informacji o sprzedaży sklepu Superstore w Stanach Zjednoczonych w latach 2015-2018. Zawierają dane dotyczące zamówień, klientów, produktów, regionów, terminów dostawy, kategorii towarów oraz wskaźników finansowych.
