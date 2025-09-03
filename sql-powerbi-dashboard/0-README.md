@@ -1,7 +1,8 @@
 Opis danych i projektu
 
 Dane pochodzą z zestawu informacji o sprzedaży sklepu Superstore w Stanach Zjednoczonych w latach 2015-2018. Zawierają dane dotyczące zamówień, klientów, produktów, regionów, terminów dostawy, kategorii towarów oraz wskaźników finansowych.
-Źródło danych:[Superstore Dataset na Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
+Źródło danych: [Superstore Dataset na Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 W ramach projektu przeprowadzono kompleksową analizę danych, obejmującą przygotowanie i czyszczenie danych za pomocą SQL i Power BI, budowę modelu danych w Power Query oraz tworzenie raportów i dashboardów do wizualizacji kluczowych wskaźników biznesowych.
 
