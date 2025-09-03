@@ -4,7 +4,7 @@ Projekt przedstawia interaktywny dashboard do analizy sprzedaży w trzech oddzia
 
 O danych:
 
-Dane pochodzą z platformy Kaggle (https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales).
+Dane pochodzą z platformy Kaggle: [Supermarket Sales Dataset](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales).
 Zbiór danych zawiera informacje o sprzedaży w trzech oddziałach supermarketu w miastach Yangon, Mandalay oraz Naypyitaw za okres od stycznia do marca 2019 roku.
 
 Narzędzia i etapy pracy:
